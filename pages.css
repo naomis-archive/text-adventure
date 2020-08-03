@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  background-color: #432f54;
+}
+a {
+  text-decoration: underline;
+  font-style: italic;
+  color: #000000;
+}
+#page {
+  margin: 50px auto;
+  width: 100vw;
+  max-width: 550px;
+  min-height: 750px;
+  text-align: justify;
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.5)
+    ),
+    url("./page.jpg");
+  background-size: cover;
+  padding: 25px;
+}
+
+footer {
+  text-align: center;
+  color: #ffffff;
+}
+
+footer > a {
+  color: #ffffff;
+}
