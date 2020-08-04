@@ -2,6 +2,10 @@
 
 This is a Choose Your Own Adventure style game - much like the books you might have read in your childhood. The story allows you to make multiple choices, and each choice will take you down a different path.
 
+## Live Version
+
+This page is currently deployed. [View the live website.](https://www.nhcarrigan.com/text-adventure)
+
 ## Feedback, Bugs, and Contributions
 
 If you have feedback or a bug report, you can create a GitHub issue or [contact me directly](https://contact.nhcarrigan.com).
