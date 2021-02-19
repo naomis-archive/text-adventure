@@ -7,7 +7,7 @@ This is a Choose Your Own Adventure style game - much like the books you might h
 
 ## Live Version
 
-This page is currently deployed. [View the live website.](https://www.nhcarrigan.com/text-adventure)
+This project is archived and is thus not currently deployed.
 
 ## Feedback and Bugs
 
